@@ -8,6 +8,12 @@ How to Get in Touch with Dashlane Customer Service
 
 People trust Dashlane to help them manage their digital passwords. It makes it easy to store, manage, and autofill your passwords in a safe way. But, like with any digital product, consumers may run into problems or have queries regarding their accounts from time to time. That's when it's important to get in touch with Dashlane customer care.
 
+.. image:: customer.jpg
+   :alt: My Project Logo
+   :width: 350px
+   :align: center
+   :target: https://tek.chat/
+
 In this post, you'll find out how to get help from Dashlane, what kinds of support they offer, and how to rapidly fix typical problems with their customer service system.
 
 What you need to know about Dashlane Support
